@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "edu.iupui.stp.SantaSeeker"
+        version     = "1.0.0" >
+
+    <name>Santa Seeker</name>
+
+    <description>
+        A simple description for the Santa Seeker app.
+    </description>
+
+	<gap:platform name="ios"/>
+	<preference name="DisallowOverscroll" value="true"/>
+	<preference name="Orientation" value="portrait"/>
+</widget>
